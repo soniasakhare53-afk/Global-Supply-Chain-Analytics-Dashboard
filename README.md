@@ -46,23 +46,23 @@ Allows users to drill down into individual product performance including revenue
 
 ### Executive Overview
 
-![Executive Overview](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Global-Supply-Chain-Analytics-Dashboard/main/overview_dashboard.png)
+![Executive Overview](https://raw.githubusercontent.com/soniasakhare53-afk/Global-Supply-Chain-Analytics-Dashboard/main/overview_dashboard.png)
 
 ### Product Intelligence
 
-![Product Intelligence](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Global-Supply-Chain-Analytics-Dashboard/main/product_intelligence.png)
+![Product Intelligence](https://raw.githubusercontent.com/soniasakhare53-afk/Global-Supply-Chain-Analytics-Dashboard/main/product_intelligence.png)
 
 ### Customer & Market Insights
 
-![Customer & Market Insights](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Global-Supply-Chain-Analytics-Dashboard/main/customer_market_insights.png)
+![Customer & Market Insights](https://raw.githubusercontent.com/soniasakhare53-afk/Global-Supply-Chain-Analytics-Dashboard/main/customer_market_insights.png)
 
 ### Logistics & Delivery Analysis
 
-![Logistics & Delivery Analysis](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Global-Supply-Chain-Analytics-Dashboard/main/logistics_delivery_analysis.png)
+![Logistics & Delivery Analysis](https://raw.githubusercontent.com/soniasakhare53-afk/Global-Supply-Chain-Analytics-Dashboard/main/logistics_delivery_analysis.png)
 
 ### Product Deep Dive
 
-![Product Deep Dive](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Global-Supply-Chain-Analytics-Dashboard/main/product_deep_dive.png)
+![Product Deep Dive](https://raw.githubusercontent.com/soniasakhare53-afk/Global-Supply-Chain-Analytics-Dashboard/main/product_deep_dive.png)
 
 ---
 
